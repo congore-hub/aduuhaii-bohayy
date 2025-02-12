@@ -1,0 +1,125 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<label for="username">username</label><br>
+<input type="name" placeholder="masukan username">
+
+
+
+
+
+
+
+
+<option>kediri</option>
+<option>malang</option>
+<option>surabaya</option>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<select name="bulan">   
+    <option name="bln">januari
+    <option name="bln">februari
+    <option name="bln">maret
+    <option name="bln">april
+    <option name="bln">mei
+    <option name="bln">juni
+    <option name="bln">juli
+    <option name="bln">agustus
+    <option name="bln">september
+    <option name="bln">oktober
+    <option name="bln">november
+    <option name="bln">desember
+</select>
+<select name="tahun">
+    <option name="thn">2006
+    <option name="thn">2005
+    <option name="thn">2004
+    <option name="thn">2003
+    <option name="thn">2002
+    <option name="thn">2001
+    <option name="thn">2000
+</select>
+<br><br>
+<b>alamat</b>
+<br><br>
+<textarea cols="40" rows="5"></textarea>
+<br><br>
+
+</div>
+<label for="txt"><b>jenis kelamin :</b></label> 
+<br><br>
+<input type="radio" id="pria" name="jenis kelamin">
+<label for="pria">pria</label>
+<input type="radio" id="wanita" name="jenis kelamin">
+<label for="wanita">wanita</label>
+<br><br>
+<label for="txt"><b>kesukaan :</b></label>
+<br><br>
+<input type="checkbox" id="menyanyi">
+<label for="menyanyi">menyanyi</label>
+<input type="checkbox" id="olahraga">
+<label for="olahraga">olahraga</label>
+<br><br>
+<div class="box2">
+    <input type="checkbox"><label class="check" for="checkbox">keep me logged
+        <button class="btn" type="reset">reset</button>
+        <button class="btn" type="submit">submit</button>
+</div>
+</form>
+
+<div class="wa">
+    <a style="position: fixed; z-index: 9999999; bottom: 20px; right: 2%;"
+    href=
+    "https://api.whatsapp.com/send?phone=082132412589&text=Assalamualaikum."
+    target="_blank"><img src="image/wa.png" width="58"></a>
+</div>
+</body>
+</html>
+ss
